@@ -15,6 +15,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "babel-loader": "^9.1.2",
         "express": "^4.17.1",
         "workbox-webpack-plugin": "^6.5.4"
     },
