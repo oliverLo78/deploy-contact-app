@@ -1,5 +1,5 @@
 import { Workbox } from 'workbox-window';
-import '../css/styles.css';
+import '../css/style.css';
 
 // Check if service workers are supported
 if ('serviceWorker' in navigator) {
