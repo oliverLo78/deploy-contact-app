@@ -11,6 +11,14 @@ You will deploy this full-stack application to Heroku using the Heroku Deploymen
 
 ## Screenshots
 
+The following image shows the application's contact card rendered:
+![Screenshot 2023-05-05 121701](https://user-images.githubusercontent.com/109435666/236634009-4861e176-d5eb-4017-94e9-a29a91375060.png)
+
+The following image shows the application's registered service worker:
+![Screenshot 2023-05-06 113756](https://user-images.githubusercontent.com/109435666/236634016-dea952c6-85c3-44c4-972d-1c62252fb746.png)
+
+The following image shows the application's IndexedDB storage:
+![Screenshot 2023-05-06 113847](https://user-images.githubusercontent.com/109435666/236634022-09431ae7-60cf-406f-8ba7-4926bf4a3729.png)
 
 ## User Story
 
